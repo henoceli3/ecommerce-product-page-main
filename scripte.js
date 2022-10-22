@@ -408,4 +408,4 @@ function testComponentCart(){
         cartCompleted.style.display = "none";
     }
 }
-alert(window.innerWidth+"x"+window.innerHeight)
+//alert(window.innerWidth+"x"+window.innerHeight)
