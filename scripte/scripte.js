@@ -302,6 +302,7 @@ function indexSelectedZommChange(){
         rgbaSelectedFour.style.background = "transparent";
     }
 };
+alert
 // ----------------------------------------------------------------------------
 // diaporama sur mobile
 const previous = document.getElementById('previous');
