@@ -332,7 +332,6 @@ function nextMobile(){
         productImagePrincipale.style.backgroundSize = "cover";
         productImagePrincipale.style.backgroundPosition = "center";
     }
-
     if(nextMobileIndex == 1){
         productImagePrincipale.style.background = imagesTable[1];
         productImagePrincipale.style.backgroundSize = "cover";
